@@ -1,4 +1,5 @@
 # Dummy
-├── __init__.py         # Module initialization
-├── token_counter.py    # Module for counting token occurrences
-├── formatter.py        # Module for formatting output
+dummy/
+├── __init__.py
+├── prompt.py      # For report_count
+├── counter.py 
